@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>연습 파일</title>
+<title>갤러리 게시판</title>
 </head>
 <body>
-	저는 sample01.jsp입니다.
-	<a href="home">home.jsp로 가기</a><br><br>
-	<img src="resources/img/spring.png">
+	저는 갤러리 게시판입니다. 
 </body>
 </html>

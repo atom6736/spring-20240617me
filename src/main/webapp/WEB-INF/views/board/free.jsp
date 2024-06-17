@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>연습 파일</title>
+<title>프리 요청입니다.</title>
 </head>
 <body>
-	저는 sample01.jsp입니다.
-	<a href="home">home.jsp로 가기</a><br><br>
-	<img src="resources/img/spring.png">
+	프리요청입니다.
 </body>
 </html>
